@@ -1,0 +1,74 @@
+2019-01-23 12:35:32,902 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-23 12:35:38,031 [main] INFO Live_Test.Check - Firefox browser:-> open browser and open URL
+2019-01-23 12:42:19,945 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-23 12:42:20,341 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-23 12:42:23,953 [main] INFO Live_Test.Check - Firefox browser:-> open browser and open URL
+2019-01-23 12:44:42,648 [main] INFO Live_Test.Check - Firefox browser:-> open browser and open URL
+2019-01-23 12:44:43,533 [main] INFO Live_Test.Check - Firefox browser:-> login done
+2019-01-23 12:46:07,889 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-23 12:46:08,273 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-23 12:46:13,225 [main] INFO Live_Test.Check - Firefox browser:-> open browser and open URL
+2019-01-23 12:46:14,666 [main] INFO Live_Test.Check - Firefox browser:-> login done
+2019-01-23 13:46:16,384 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-23 14:54:46,835 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-23 15:01:25,570 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-23 15:01:25,949 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-23 15:01:29,609 [main] INFO Live_Test.Check - Firefox browser:-> open browser and open URL
+2019-01-23 15:16:07,347 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-23 15:16:07,710 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-23 15:16:11,334 [main] INFO Live_Test.Check - Firefox browser:-> open browser and open URL
+2019-01-23 15:16:11,995 [main] INFO Live_Test.Check - Firefox browser:-> login done
+2019-01-23 15:16:16,340 [main] INFO Live_Test.Check - Chrome browser:-> open General setting page
+2019-01-23 15:16:16,364 [main] INFO Live_Test.Check - Firefox browser:-> open General setting page
+2019-01-23 15:34:09,573 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-23 15:34:09,948 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-23 15:36:19,613 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-23 15:36:22,002 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-23 15:37:19,864 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-23 15:37:22,213 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-23 15:37:45,737 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-23 15:37:48,107 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-23 15:39:53,147 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-23 15:39:55,635 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-23 15:41:55,760 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-23 15:41:58,120 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-23 15:53:26,904 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-23 15:53:29,518 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-23 15:58:14,133 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-23 15:58:16,490 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-23 16:03:40,507 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-23 16:03:42,878 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-23 16:04:53,241 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-23 16:04:55,628 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-23 16:05:02,397 [main] INFO Live_Test.Check - Chrome browser:-> Systemlog >> error selected
+2019-01-23 16:05:02,398 [main] INFO Live_Test.Check - Chrome browser:-> open General setting page
+2019-01-25 14:45:49,043 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-25 14:45:51,452 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-25 14:45:59,862 [main] INFO Live_Test.Check - Chrome browser:-> Systemlog >> error selected
+2019-01-25 14:45:59,936 [main] INFO Live_Test.Check - Chrome browser:-> open General setting page
+2019-01-28 12:29:21,417 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-28 12:29:23,864 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-28 12:29:29,342 [main] INFO Live_Test.Check - Chrome browser:-> Systemlog >> error selected
+2019-01-28 12:29:29,449 [main] INFO Live_Test.Check - Chrome browser:-> open General setting page
+2019-01-28 12:33:35,080 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-28 12:33:37,466 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-28 12:33:42,729 [main] INFO Live_Test.Check - Chrome browser:-> Systemlog >> error selected
+2019-01-28 12:33:42,863 [main] INFO Live_Test.Check - Chrome browser:-> open General setting page
+2019-01-28 12:34:59,001 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-28 12:35:01,412 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-28 12:35:06,885 [main] INFO Live_Test.Check - Chrome browser:-> Systemlog >> error selected
+2019-01-28 12:35:09,040 [main] INFO Live_Test.Check - Chrome browser:-> open General setting page
+2019-01-28 13:17:43,012 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-28 13:17:45,397 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-28 13:17:50,788 [main] INFO Live_Test.Check - Chrome browser:-> Systemlog >> error selected
+2019-01-28 13:17:52,995 [main] INFO Live_Test.Check - Chrome browser:-> open General setting page
+2019-01-28 14:22:21,819 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-28 14:22:24,191 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-28 14:22:29,390 [main] INFO Live_Test.Check - Chrome browser:-> Systemlog >> error selected
+2019-01-28 14:22:31,551 [main] INFO Live_Test.Check - Chrome browser:-> open General setting page
+2019-01-28 14:55:30,433 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-01-28 14:55:32,825 [main] INFO Live_Test.Check - Chrome browser:-> login done
+2019-01-28 14:55:39,638 [main] INFO Live_Test.Check - Chrome browser:-> Systemlog >> error selected
+2019-01-28 14:55:41,806 [main] INFO Live_Test.Check - Chrome browser:-> open General setting page
+2019-02-05 11:05:03,126 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
+2019-02-05 11:06:07,317 [main] INFO Live_Test.Check - Chrome browser:-> open browser and open URL
